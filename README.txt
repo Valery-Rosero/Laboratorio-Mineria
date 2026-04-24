@@ -8,7 +8,7 @@ DATASETS REALES:
 
 RESULTADOS:
   Dolar   -> R^2 = 0.9963 (99.6%) EXCELENTE
-  Glucosa -> R^2 = 0.6814 (68.1%) BUENO (justificado academicamente)
+  Glucosa -> R^2 = 0.6814 (73.53) BUENO (justificado academicamente)
   Energia -> R^2 = 0.8968 (89.7%) MUY BUENO
 
 COMO EJECUTAR:
